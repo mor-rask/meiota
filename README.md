@@ -1,9 +1,12 @@
 # MEIOTA
 Audio-visual payloads:
+    
     * Romano
     
     - Scary {
+        
         - Jumpscare
+        
         - Spooky websites
     }
     
@@ -17,10 +20,12 @@ Audio-visual payloads:
 
 
 Infectious payloads:
+   
     * USB spreading
 
 
 Destructive payloads:
+   
     * .txt overwriting
     
     * Massive copying
