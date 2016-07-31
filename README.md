@@ -1,5 +1,6 @@
 # MEIOTA
-Audio-visual payloads:
+
+#Audio-visual payloads:
     
     * Romano
     
@@ -19,12 +20,14 @@ Audio-visual payloads:
     - Spam
 
 
-Infectious payloads:
+#Infectious payloads:
    
     * USB spreading
+   
+    * File binding
 
 
-Destructive payloads:
+#Destructive payloads:
    
     * .txt overwriting
     
