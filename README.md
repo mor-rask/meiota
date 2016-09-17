@@ -1,38 +1,30 @@
 # MEIOTA
 
-#Audio-visual payloads:
-    
-    * Romano
-    
+Audio-visual payloads:
+
+    Presentation && Greetings (INSTALLER)
+
+    - Triggered
     - Scary {
-        
         - Jumpscare
-        
-        - Spooky websites
+        - Satanic_websites
     }
-    
     - Nerdy lock
-    
     - Beeps
-    
     - MLG + Text
-    
     - Spam
 
-
-#Infectious payloads:
-   
-    * USB spreading
-   
-    * File binding
+    - Romano(boosted)
+    - Click counter
+    - Nazi potato
+    - Transparent screen blocker
 
 
-#Destructive payloads:
-   
-    * .txt overwriting
-    
-    * Massive copying
-    
-    * File deletion(.jpg ...)
-    
-    * .doc overwriting
+
+Infectious payloads:
+
+    USB spreading
+
+Destructive payloads:
+
+    - File deletion
