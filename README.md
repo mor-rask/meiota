@@ -1,12 +1,12 @@
-# MEIOTA
+# MEIOTA  
 
 ##**PAYLOADS:**   
 ###**Tk payloads:**  
-* Presentation and greetings
-* Jumpscare
-* Text spam
-* Popup spam
-* Password lock
+* Presentation and greetings  
+* Jumpscare  
+* Text spam  
+* Popup spam  
+* Password lock  
 ###**WinAPI payloads:**  
 ####**GUI:**  
 * Wallpaper spam  
@@ -22,6 +22,6 @@
 * Massive file deletion    
 * Message box spam  
 ###**Infectious payloads:**  
-       * [EXE infection](https://youtu.be/yrcCt8f67a0)
+* [EXE infection](https://youtu.be/yrcCt8f67a0)  
 
 
