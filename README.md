@@ -22,6 +22,7 @@
   ####**API:**  
 * Massive file deletion    
 * Message box spam  
+  
   ###**Infectious payloads:**  
 * [EXE infection](https://youtu.be/yrcCt8f67a0)  
 
