@@ -116,5 +116,3 @@ class INF:
                 f.close()
             os.startfile('C:\\Users\\%s\\Pictures\\%s' % (win32api.GetUserName(), self.launcher_nm_3))
 
-
-zz = INF()
