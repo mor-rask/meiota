@@ -12,17 +12,17 @@
       * Password lock
     
    **WinAPI payloads:** 
-      **GUI:**
-           
-           * Wallpaper spam
-           * Text spam
-           * Line spam
-           * Penis spam
-           * Chessboard effect
-           * Inverted screen colors effect
-           * Fairy dust effect
-           * Stripes effect
-           * Cracked screen effect
+      
+      **GUI:** 
+          * Wallpaper spam
+          * Text spam
+          * Line spam
+          * Penis spam
+          * Chessboard effect
+          * Inverted screen colors effect
+          * Fairy dust effect
+          * Stripes effect
+          * Cracked screen effect
        
        **API:**
            
