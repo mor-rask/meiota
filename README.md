@@ -22,6 +22,7 @@
           * Fairy dust effect
           * Stripes effect
           * Cracked screen effect
+    
     **API:**
           * Massive file deletion
           * Message box spam
