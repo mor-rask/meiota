@@ -1,9 +1,8 @@
 # MEIOTA
 
 ###**PAYLOADS:**
-    
-    
-   **Tk payloads:**
+        
+**Tk payloads:**
       
       * Presentation and greetings
       * Jumpscare
@@ -11,9 +10,9 @@
       * Popup spam
       * Password lock
     
-   **WinAPI payloads:** 
+**WinAPI payloads:** 
       
-      **GUI:** 
+   **GUI:** 
           
           * Wallpaper spam
           * Text spam
