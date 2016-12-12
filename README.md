@@ -13,8 +13,8 @@
 **WinAPI payloads:** 
       
    **GUI:**   
-          * Wallpaper spam  
-          * Text spam  
+          * Wallpaper spam
+          * Text spam
           * Line spam  
           * Penis spam  
           * Chessboard effect  
