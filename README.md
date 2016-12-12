@@ -14,6 +14,7 @@
    **WinAPI payloads:** 
       
       **GUI:** 
+          
           * Wallpaper spam
           * Text spam
           * Line spam
@@ -24,10 +25,10 @@
           * Stripes effect
           * Cracked screen effect
        
-       **API:**
+      **API:**
            
-           * Massive file deletion
-           * Message box spam
+          * Massive file deletion
+          * Message box spam
             
     **Infectious payloads:**
        * [EXE infection](https://youtu.be/yrcCt8f67a0)
