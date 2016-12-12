@@ -10,7 +10,7 @@
   
 ###**WinAPI payloads:**  
   
-  #### **GUI:**  
+  **GUI:**  
 * Wallpaper spam  
 * Text spam  
 * Line spam  
