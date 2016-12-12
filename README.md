@@ -2,7 +2,7 @@
 
 ###**PAYLOADS:**
         
-**Tk payloads:**
+####**Tk payloads:**
       
       * Presentation and greetings
       * Jumpscare
@@ -10,9 +10,9 @@
       * Popup spam
       * Password lock
     
-**WinAPI payloads:** 
+####**WinAPI payloads:** 
       
-   **GUI:**
+**GUI:**
    
           * Wallpaper spam  
           * Text spam  
@@ -24,12 +24,12 @@
           * Stripes effect  
           * Cracked screen effect  
     
-    **API:**  
+**API:**  
           
           * Massive file deletion    
           * Message box spam  
   
-**Infectious payloads:**  
+####**Infectious payloads:**  
        * [EXE infection](https://youtu.be/yrcCt8f67a0)
 
 
