@@ -25,7 +25,7 @@
           * Stripes effect
           * Cracked screen effect
        
-      **API:**
+    **API:**
            
           * Massive file deletion
           * Message box spam
