@@ -1,6 +1,6 @@
 # MEIOTA
-* PAYLOADS:
 
+PAYLOADS:
     Tk payloads:
         Presentation and greetings
         Jumpscare
