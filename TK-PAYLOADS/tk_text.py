@@ -52,5 +52,3 @@ class Text:
         self.root.mainloop()
 
 
-zz = Text()
-
