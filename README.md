@@ -1,16 +1,16 @@
 # MEIOTA
 
-PAYLOADS:
+###**PAYLOADS:**
     
-    Tk payloads:
+    **Tk payloads:**
         Presentation and greetings
         Jumpscare
         Text spam
         Popup spam
         Password lock
     
-    WinAPI payloads:
-        GUI:
+    **WinAPI payloads:**
+       **GUI:**
             Wallpaper spam
             Text spam
             Line spam
@@ -20,11 +20,11 @@ PAYLOADS:
             Fairy dust effect
             Stripes effect
             Cracked screen effect
-        API:
+        **API:**
             Massive file deletion
             Message box spam
             
-     Infectious payloads:
-        EXE infection
+     **Infectious payloads:**
+        [EXE infection](https://youtu.be/yrcCt8f67a0)
 
 
