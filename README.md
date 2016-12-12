@@ -8,7 +8,7 @@
 * Popup spam  
 * Password lock  
   
-  ###**WinAPI payloads:**  
+###**WinAPI payloads:**  
   ####**GUI:**  
 * Wallpaper spam  
 * Text spam  
@@ -24,7 +24,7 @@
 * Massive file deletion    
 * Message box spam  
   
-  ###**Infectious payloads:**  
+###**Infectious payloads:**  
 * [EXE infection](https://youtu.be/yrcCt8f67a0)  
 
 
