@@ -9,6 +9,7 @@
 * Password lock  
   
 ###**WinAPI payloads:**  
+  
   ####**GUI:**  
 * Wallpaper spam  
 * Text spam  
