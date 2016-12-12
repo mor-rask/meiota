@@ -12,7 +12,9 @@
       * Password lock
     
    **WinAPI payloads:** 
+      
       **GUI:**
+           
            * Wallpaper spam
            * Text spam
            * Line spam
@@ -22,7 +24,9 @@
            * Fairy dust effect
            * Stripes effect
            * Cracked screen effect
+       
        **API:**
+           
            * Massive file deletion
            * Message box spam
             
