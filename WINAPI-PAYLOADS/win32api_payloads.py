@@ -48,5 +48,3 @@ class DEL:
         except:
             pass
 
-a = WNA()
-a.messages()
