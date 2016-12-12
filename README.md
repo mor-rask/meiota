@@ -7,8 +7,8 @@
 * Text spam  
 * Popup spam  
 * Password lock  
-###**WinAPI payloads:**  
-####**GUI:**  
+  ###**WinAPI payloads:**  
+  ####**GUI:**  
 * Wallpaper spam  
 * Text spam  
 * Line spam  
@@ -18,10 +18,10 @@
 * Fairy dust effect  
 * Stripes effect  
 * Cracked screen effect  
-####**API:**  
+  ####**API:**  
 * Massive file deletion    
 * Message box spam  
-###**Infectious payloads:**  
+  ###**Infectious payloads:**  
 * [EXE infection](https://youtu.be/yrcCt8f67a0)  
 
 
