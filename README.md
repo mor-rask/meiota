@@ -2,7 +2,7 @@
 
 ##**PAYLOADS:**   
 ###**Tk payloads:**  
-* Presentation and greetings  (TODO)
+* Presentation and greetings  (TO DO)
 * Jumpscare  
 * Text spam  
 * Popup spam  
